@@ -12,6 +12,6 @@ User Management
 Doctor Registration and management
 
 # Technologies Used
-HTML, CSS, Bootstrap, JavaScript, Jsp, Servlet, SQL.
+HTML, CSS, Bootstrap, JavaScript, Java, Jsp, Servlet, SQL.
 # Project view
 ![home page](https://github.com/user-attachments/assets/1cb900b3-bd53-46f9-9671-30c0df545105)
